@@ -16,7 +16,7 @@ const Contact = () => {
         </div>
       </div>
       <footer className="footer">
-        <p>© {new Date().getFullYear()} Jaykumar Gori. Built with React & Vite.</p>
+        <p>© {new Date().getFullYear()} Jaykumar Gori.</p>
       </footer>
     </section>
   );
