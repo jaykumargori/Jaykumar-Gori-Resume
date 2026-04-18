@@ -141,3 +141,23 @@
     font-size: 3rem;
   }
 }
+
+@media (max-width: 768px) {
+  .hero-avatar {
+    max-width: 240px;
+  }
+  
+  .blob-1 {
+    width: 300px;
+    height: 300px;
+    top: -50px;
+    right: -20px;
+  }
+  
+  .blob-2 {
+    width: 320px;
+    height: 320px;
+    bottom: -50px;
+    left: -20px;
+  }
+}
