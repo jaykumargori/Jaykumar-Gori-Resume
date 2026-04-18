@@ -144,7 +144,9 @@
 
 @media (max-width: 768px) {
   .hero-avatar {
-    max-width: 240px;
+    width: 65vw;
+    max-width: 190px;
+    height: auto;
   }
   
   .blob-1 {
